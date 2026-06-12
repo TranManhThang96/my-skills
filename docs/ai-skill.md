@@ -14,6 +14,7 @@ IV. Publish
 - Chạy thật: ```npx @tranmanhthang96/ai-skills install learn-fast```
 
 Nếu cập nhât:
+- đẩy lên git trước
 - tăng version: ```npm version patch```
 - publish lại: ```npm publish```
 
