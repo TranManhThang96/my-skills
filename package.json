@@ -1,6 +1,6 @@
 {
   "name": "@tranmanhthang96/ai-skills",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CLI installer for AI coding assistant skills",
   "type": "module",
   "bin": {
