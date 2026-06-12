@@ -1,0 +1,32 @@
+{
+  "name": "@tranmanhthang96/ai-skills",
+  "version": "0.1.1",
+  "description": "CLI installer for AI coding assistant skills",
+  "type": "module",
+  "bin": {
+    "ai-skills": "./bin/ai-skills.js"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "README.md",
+    "package.json"
+  ],
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2"
+  },
+  "keywords": [
+    "ai",
+    "skills",
+    "claude-code",
+    "codex",
+    "opencode",
+    "cursor",
+    "windsurf"
+  ],
+  "author": "Thắng Trần Mạnh",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
