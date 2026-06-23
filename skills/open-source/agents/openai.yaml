@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Source"
+  short_description: "Analyze and learn from public Git repositories"
+  default_prompt: "Use $open-source to analyze this public Git repository and create the five Vietnamese Markdown reports."
